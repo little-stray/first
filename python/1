@@ -2,3 +2,5 @@ print 自带换行符 必须用 end=" 终止换行
 ** 次方
 // 整除
 for range in（）for 循环语句
+赋值运算是从右往左的
+a,b = b,a+b (先算a+b，把a+b的值赋给b，再把b的值赋给a） 
