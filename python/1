@@ -1,0 +1,4 @@
+print 自带换行符 必须用 end=" 终止换行
+** 次方
+// 整除
+for range in（）for 循环语句
