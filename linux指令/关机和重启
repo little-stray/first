@@ -1,0 +1,6 @@
+shutdown [选项]  [参数](参数为时间，不加参数为1分钟后执行）
+shutdown now 立刻关机
+shutdown -r 重启
+shutdown -r +10 10分钟之后重启电脑
+shutdown -r 20:00 在20点的时候关机
+shutdown -c 可以取消指令
