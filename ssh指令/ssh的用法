@@ -1,0 +1,2 @@
+ssh -p port user@remote(p是小写的p port是端口号（默认是22，web的端口号是80）user是用户名 remote是ip地址
+    
