@@ -1,0 +1,3 @@
+scp -P port file user@remote:路径/ file （将本地文件夹下的file复制到ubuntu的路径下（名字一样时file可以省略））(P要大写）
+scp -P port user@remote:路径/file file （将远程ubuntu下的文件复制到当前路径下的file文件，file名字不变时可以用 . 代替）
+加上-r 可以复制目录，可以复制桌面目录
