@@ -1,0 +1,2 @@
+windows下可以使用xshell软件使用ssh
+filezilla 可以用来文件传输 走的是ftp协议，所以端口号为21
