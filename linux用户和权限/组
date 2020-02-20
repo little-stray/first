@@ -1,0 +1,3 @@
+groupadd 添加组
+groupdel 删除组
+（操作必须和sudo一起使用 信息存放在/etc/group 目录下）
