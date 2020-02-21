@@ -1,0 +1,3 @@
+usermod -g 组 用户名 修改用户的主组
+usermod -G 组 用户名 修改用户的附加组
+usermod -s /bin/bash 修改用户的shell
